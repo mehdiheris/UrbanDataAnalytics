@@ -1,0 +1,3 @@
+<div class="sidebar">
+    {{ site.pages | where_exp: "page", "page.path != '/index.md'" | sort: "order" | map: "title" | join: " | " }}
+</div>

@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.sidebar {
+    width: 25%;
+    float: left;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.content {
+    width: 75%;
+    float: right;
+    padding: 20px;
+}
