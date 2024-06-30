@@ -1,6 +1,6 @@
-title: My Python Course
+title: Urban Data Analytics Course
 description: >
-  This is my Python course website.
+  This is my Urban Data Analytics course website.
 baseurl: "/UrbanDataAnalytics" # the subpath of your site, e.g. /blog
 url: "https://mehdiheris.github.io" # the base hostname & protocol for your site
 
