@@ -1,3 +1,10 @@
 <div class="sidebar">
-    {{ site.pages | where_exp: "page", "page.path != '/index.md'" | sort: "order" | map: "title" | join: " | " }}
+    <nav>
+        <ul>
+            <li><a href="{{ "/UrbanDataAnalytics/docs/index.md" | relative_url }}">Home</a></li>
+            <li><a href="{{ "/UrbanDataAnalytics/notebooks/intro_to_python.ipynb" | relative_url }}">Introduction to Python</a></li>
+            <li><a href="{{ "/UrbanDataAnalytics/notebooks/data_analysis_with_pandas.ipynb" | relative_url }}">Data Analysis with Pandas</a></li>
+            <li><a href="{{ "/UrbanDataAnalytics/notebooks/visualization_with_matplotlib.ipynb" | relative_url }}">Visualization with Matplotlib</a></li>
+        </ul>
+    </nav>
 </div>
