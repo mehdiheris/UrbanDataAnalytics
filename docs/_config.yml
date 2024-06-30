@@ -1,2 +1,10 @@
 title: My Python Course
+description: >
+  This is my Python course website.
+baseurl: "/UrbanDataAnalytics" # the subpath of your site, e.g. /blog
+url: "https://mehdiheris.github.io" # the base hostname & protocol for your site
+
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-toc
