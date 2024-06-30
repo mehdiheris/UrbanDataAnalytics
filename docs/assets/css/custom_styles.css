@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+main{
+
+}
+
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 14rem;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.content {
+    margin-left: 15rem;
+    height: 1000px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav li{
+    line-height: 1rem;
+    margin-bottom: 0.55rem;
+}
