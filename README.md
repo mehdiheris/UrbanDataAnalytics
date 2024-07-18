@@ -27,10 +27,12 @@ The learning objectives of this course include:
 - How to leverage AI. 
 - Let’s set up Google Colab, as your programming environment
 - We will mount your Google Drive in Colab.
+- We are using this notebook: https://github.com/mehdiheris/UrbanDataAnalytics/blob/main/notebooks/Start_Python_Session_1.ipynb
 - Let’s do Python: What are variables?
 - Let’s do Python: What are data types?
 - Let’s do Python: Create Lists.
 - Let’s do Python: What are For loops?
+
   
   
 </details>
@@ -45,7 +47,10 @@ The learning objectives of this course include:
 > - Explanation of mean, median, and standard deviation    
     
 #### (2) Let’s do Python:
-
+- We are using the following notebooks:
+    - 1 https://github.com/mehdiheris/UrbanDataAnalytics/blob/main/notebooks/import_packages.ipynb
+    - 2 https://github.com/mehdiheris/UrbanDataAnalytics/blob/main/notebooks/Pandas_Study_Guide_Session_2.ipynb
+    
 > ##### Importing libraries
 > - `import pandas as pd`
 > - `import matplotlib.pyplot as plt`
