@@ -82,6 +82,9 @@ The learning objectives of this course include:
 > ##### - Research hypothesis and null hypothesis. 
 > ##### - What is a categorical variable and what is a numerical variable?
 ### (2) Let’s do Python:
+We are using these notebooks:
+- 1 https://github.com/mehdiheris/UrbanDataAnalytics/blob/main/notebooks/Explore_a_Table_Session_3.ipynb
+- 2 https://github.com/mehdiheris/UrbanDataAnalytics/blob/main/notebooks/Pandas_Groupby_Session_3.ipynb
 > ##### - Get the stats of a column
 > ##### - Get the unique values of a column
 > ##### - Understand datatime objects.
